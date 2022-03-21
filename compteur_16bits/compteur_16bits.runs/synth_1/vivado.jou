@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Mar 21 08:47:25 2022
+# Process ID: 10746
+# Current directory: /home/omre/4A/Archi_Mat/compteur_16bits/compteur_16bits.runs/synth_1
+# Command line: vivado -log compteur_16bits.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source compteur_16bits.tcl
+# Log file: /home/omre/4A/Archi_Mat/compteur_16bits/compteur_16bits.runs/synth_1/compteur_16bits.vds
+# Journal file: /home/omre/4A/Archi_Mat/compteur_16bits/compteur_16bits.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source compteur_16bits.tcl -notrace
